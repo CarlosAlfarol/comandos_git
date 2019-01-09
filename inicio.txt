@@ -1,0 +1,1 @@
+Esto es una prueba de GIT. \n Se realiza cambi de la información
